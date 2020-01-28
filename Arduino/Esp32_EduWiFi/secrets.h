@@ -49,9 +49,3 @@ const char *incommon_ca =
 // https://documentation.its.umich.edu/content/wifi-manually-configuring-wpa2-enterprise-other-wifi-enabled-devices-unsupported-devices
 // Use the "Intermediate CA" file: http://www.itcom.itd.umich.edu/downloads/wifi/incommon_ras_server_ca.cer ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 // NO need for "Root CA: UserTrust RSA Cerification Authority" file
-
-/////////////// Initial State Streamer Config  //////////////////
-#define bucketKey "XXXXXXXXXXXX"                         // Bucket key (hidden reference to your bucket that allows appending)
-#define bucketName "YYYYYYYYY"                           // Bucket name (name your data will be associated with in Initial State)
-#define accessKey "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ" // Access key (the one you find in your account settings)
-/////////////////////////////////////////////////////////////////
