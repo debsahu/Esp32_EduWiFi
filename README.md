@@ -32,10 +32,10 @@ After above settings are enterd, click on **Register my device**
 2. Download the [Intermediate root certificate](http://www.itcom.itd.umich.edu/downloads/wifi/incommon_ras_server_ca.cer) and open using text editor like Notepad++
 
 3. Copy contents of the certificate into **incommon_ca**, current contents are valid until 2024(But this can be changed without notice)
-[!rootca](https://github.com/debsahu/Esp32_EduWiFi/blob/master/doc/rootca.png)
+![rootca](https://github.com/debsahu/Esp32_EduWiFi/blob/master/doc/rootca.png)
 
 4. Enter full umich email address into **EAP_IDENTITY** and umich password into **EAP_PASSWORD**
-[!identity](https://github.com/debsahu/Esp32_EduWiFi/blob/master/doc/identity.png)
+![identity](https://github.com/debsahu/Esp32_EduWiFi/blob/master/doc/identity.png)
 
 5. Connect to either **MWireles** or **eduroam** 2.4 GHz WiFi on campus
-[!ssid](https://github.com/debsahu/Esp32_EduWiFi/blob/master/doc/ssid.png)
+![ssid](https://github.com/debsahu/Esp32_EduWiFi/blob/master/doc/ssid.png)
