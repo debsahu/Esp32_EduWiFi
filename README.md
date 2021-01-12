@@ -6,7 +6,7 @@ Minimal settings for ESP32 to connect to **University of Michigan WiFi (MWireles
 
 ----------------
 ## Youtube
-[![Esp32_EduWiFi](https://img.youtube.com/vi/xxxxxxxx/0.jpg)](https://www.youtube.com/watch?v=xxxxxxxxx)
+[![Esp32_EduWiFi](https://img.youtube.com/vi/bABHeMea-P0/0.jpg)](https://www.youtube.com/watch?v=bABHeMea-P0)
 
 ----------------
 ## MSetup
@@ -23,7 +23,7 @@ After above settings are enterd, click on **Register my device**
 
 5. Note the expiry date of this registration, one can renew on a annual basis
 
-## WiFi: MWireless/eduroam
+## WiFi: eduroam
 
 0. Do **NOT** follow instructions from [here](https://www.itcom.itd.umich.edu/wireless/setup/?device=Unknown)
 
@@ -37,5 +37,5 @@ After above settings are enterd, click on **Register my device**
 4. Enter full umich email address into **EAP_IDENTITY** and umich password into **EAP_PASSWORD**
 ![identity](https://github.com/debsahu/Esp32_EduWiFi/blob/master/doc/identity.png)
 
-5. Connect to either **MWireles** or **eduroam** 2.4 GHz WiFi on campus
+5. Connect to **eduroam** 2.4 GHz WiFi on campus
 ![ssid](https://github.com/debsahu/Esp32_EduWiFi/blob/master/doc/ssid.png)
